@@ -1,0 +1,6 @@
+[submodule "ave-maria-admin"]
+	path = ave-maria-admin
+	url = git@github.com:kleva-j/ave-maria-admin.git
+[submodule "ave-maria-host"]
+	path = ave-maria-host
+	url = git@github.com:kleva-j/ave-maria-host.git
